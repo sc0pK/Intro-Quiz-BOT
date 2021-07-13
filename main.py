@@ -122,3 +122,4 @@ def rand_ints_nodup(a, b, k):
             ns.append(n)
     return ns
 
+bot.run(disToken)
